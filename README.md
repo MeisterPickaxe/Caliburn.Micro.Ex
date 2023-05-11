@@ -1,5 +1,5 @@
 # Caliburn.Micro.Ex
 
-Tracing 
+Traced from
 
 https://www.youtube.com/watch?v=laPFq3Fhs8k
